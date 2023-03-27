@@ -13,6 +13,11 @@ app.get('/questions', (req, res) => {
             votes: "10"
         },
         {
+            title: "what is js?", 
+            user: "John", 
+            votes: "10"
+        },
+        {
             title: "what is express js?", 
             user: "Mike", 
             votes: "8"
